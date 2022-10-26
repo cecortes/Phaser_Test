@@ -1,0 +1,27 @@
+{
+  "name": "phaser_test",
+  "version": "1.0.0",
+  "description": "A sandbox to test and feel the Phaser framework...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cecortes/Phaser_Test.git"
+  },
+  "keywords": [
+    "MiniGames",
+    "Framework",
+    "JS"
+  ],
+  "author": "César López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cecortes/Phaser_Test/issues"
+  },
+  "homepage": "https://github.com/cecortes/Phaser_Test#readme",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
